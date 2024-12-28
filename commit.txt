@@ -1,0 +1,381 @@
+commit 409e02b438ee912342b499b484d4900d4d4d43df
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 22:46:11 2024 +0800
+
+    添加跑酷关卡
+
+commit 7bd521ccea320eeb9a798e094f4a635a2441ac9e
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 21:25:44 2024 +0800
+
+    完善赛博朋克场景布置
+
+commit deaaf77001bc345ce9ec958401e566010f352143
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 19:40:26 2024 +0800
+
+    修正摄像机过于晃动的问题、完善制作人表
+
+commit b66e2ccdfbe6cb93b6fe4561f16fd6caa9f3bde4
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 19:16:48 2024 +0800
+
+    修复教学关卡掉落、不使用传送门、传送关卡点不够显眼的问题
+    
+    可以给关卡点设置鲜艳的特效、修正文本显示颜色和描述问题、给场景添加传送门平面和敌人
+
+commit a65e105749326130a474d4385bf60bf66d8d507a
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 18:12:56 2024 +0800
+
+    修正音频引用丢失问题以及Sequence丢失问题
+
+commit 04829a422bbc37bdc56a01bc5eb8f6fee3238610
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 17:07:07 2024 +0800
+
+    修正音频名称
+
+commit a20a0e88e901c07f5be881902d4ff9c641d2ce2b
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 17:01:13 2024 +0800
+
+    移除多余音频文件
+
+commit 53392afb43d23b703f8f3930a71d34a68bc4899d
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 16:55:13 2024 +0800
+
+    移除多余文件准备进行打包
+
+commit 905477cd3320a0a38e1d544a5c6fb4bd00514fb2
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 16:01:31 2024 +0800
+
+    给MainTrainScene添加场景转换球
+
+commit e65723f0929b7eae1c7d4f0c37da2cf5bed02fff
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 15:41:20 2024 +0800
+
+    将MainTrainScene转换为portition格式
+
+commit 2c271c79b0f86eee3fd54904bbab7fd714807ef2
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 15:06:11 2024 +0800
+
+    添加球体关卡传送逻辑
+
+commit efeacd1db68371fff8c4e6b5df3ab43ffa927458
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 14:50:06 2024 +0800
+
+    添加全局实例加载关卡的方法
+
+commit 564a864d5aecba39b4829cef69c93f68bf6b9af2
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 14:20:53 2024 +0800
+
+    添加跳跃传送蹬墙音效
+
+commit c7b5989229a089d8567842d00ef3ed128c5c3053
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 11:55:53 2024 +0800
+
+    创建赛博城市关卡
+
+commit 10492e88d42eeec3d2842481bbec226e8ccbd50f
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 11:47:25 2024 +0800
+
+    设置.gitignore文件排除模型文件
+
+commit 49d81cba44c3d4cd950e05c2894ad5f934d72217
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 11:04:23 2024 +0800
+
+    优化加载页面
+
+commit 4b46821ed7efc3cee91f32117ac20e623357b538
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Sat Dec 28 10:56:59 2024 +0800
+
+    优化开始游戏页面
+
+commit 58d5ab313190e2b8f9984287c8193c8411c2458b
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 23:39:38 2024 +0800
+
+    通过场景限制玩家移动防止出现传送问题
+
+commit e4f73786222dbf9b11123bdda413f0147f0bc56a
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 23:16:03 2024 +0800
+
+    修正关卡打包丢失问题，添加掉落返回蓝图
+    
+    掉落返回会引起传送门控件的传送门组件丢失问题
+
+commit 00d966d11b8aa86389812ff5603fedb5a415e8e8
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 22:21:58 2024 +0800
+
+    移除中文文件夹
+
+commit f64e374faa5133d1adbe2178f3f2d4c95a4e85b4
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 21:27:21 2024 +0800
+
+    修改射击音效
+
+commit 188c1be829d574935edf1aabe540830df58fc6cb
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 21:04:53 2024 +0800
+
+    添加音效资源，为传送门生成添加声音
+
+commit cc3e22ad556e372ff948d08055b990b719430011
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 20:32:22 2024 +0800
+
+    通过添加输入映射修复项目自动修改绑定输入键的问题
+
+commit 7dcb4aa9bce9e385a0d6b94defd06cf6009acc9b
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 18:22:38 2024 +0800
+
+    初步构建好教学关卡
+    
+    出现无法拾取枪械的问题
+
+commit 14fc3bbff1e93bd1eaeb140ae93eccdc7b38a6c8
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 17:41:23 2024 +0800
+
+    初步汉化游戏内菜单
+
+commit 5a6d4598fdf034038e054e5ded93f7801d3263e6
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 17:08:59 2024 +0800
+
+    汉化主菜单页面
+
+commit fdd9781229e24788984e8151cddc505bac249adc
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 17:01:07 2024 +0800
+
+    制作Credits选项内容
+
+commit e6efeb877754a5a55715d9d80975669104283073
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 16:07:57 2024 +0800
+
+    暂时移除菜单中的controls控制部分
+
+commit eaa6356382c21bbd1c99919a55e141497b2bd071
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 15:28:49 2024 +0800
+
+    初步实现游戏内菜单
+
+commit 9ae036d3772e3751ee523b7d6196e3aeba002391
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 15:14:32 2024 +0800
+
+    修改主菜单资源逻辑，初步实现主菜单
+
+commit 6155ed7e82bb8e855687f1b55210ee8dd8c4352e
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Fri Dec 27 14:13:51 2024 +0800
+
+    构建主菜单关卡，导入模板主菜单资源
+
+commit e68ca3dda06f52706765a122e3a76705c55e5c2b
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 23:10:52 2024 +0800
+
+    构建教学关卡
+    
+    出现无法显示中文的问题
+
+commit d5ea42243b22fdeb678a07d0dc92720a40fca8b8
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 20:34:13 2024 +0800
+
+    准备添加场景转换逻辑
+    
+    先尝试导入一个场景切换资源
+
+commit 31da639dccae98d1de861b48c02c725680ff9d93
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 17:08:04 2024 +0800
+
+    将直接的声音播放转换为SoundCue解决音频播放重复的问题
+
+commit 3c111bb094372c06be00034cc481e7a6b0f95ae1
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 16:47:27 2024 +0800
+
+    修改方块击中音效
+
+commit 0563f5dc7b5cc508f51301ec19d8365a1b80ec17
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 15:45:07 2024 +0800
+
+    添加方块击中音效
+
+commit 510a1a302e94ea86acd079253228ba48cd23f4d7
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 15:11:25 2024 +0800
+
+    给枪械基类添加子弹音效播放
+
+commit 9b0a665cffece7b0f50124a182fde4e5d84e8b87
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 13:50:42 2024 +0800
+
+    调整网格体与胶囊体组件的相对位置修复传送位置问题
+
+commit a2270887bc97589c2b0b964aed67c9c73f46aaf3
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 13:45:11 2024 +0800
+
+    初步整合传送门功能
+
+commit 85a62ac5a3059ae5af85560b5619ec31bf5052c8
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 13:03:23 2024 +0800
+
+    调整传送门控件，准备添加传送门功能
+
+commit 718984c599fd82381f1adef822ed23eb4d7fdb02
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 12:53:39 2024 +0800
+
+    整理角色蓝图变量
+
+commit e40a0a4e81505f0fc7dcba96b67fbd680c6e6cd0
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 12:47:37 2024 +0800
+
+    修正跑墙前后的重力值
+
+commit 92cbeb456d197300121feb196f1baf3c065c88d5
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 12:40:12 2024 +0800
+
+    初步整合跑墙功能
+
+commit 40ff5380423a1c23d1ed6e3d0d5fb9b47606a640
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Thu Dec 26 11:27:06 2024 +0800
+
+    准备修复二段跳的蓝图
+
+commit f8e438347a165463a51e2bbc439b78d7bb1803dc
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 22:41:04 2024 +0800
+
+    准备进行蹬墙功能蓝图的迁移
+
+commit 4e3993a1bbfc7b64acead0216ea420dc84e3f3fc
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 22:37:51 2024 +0800
+
+    导入炫酷枪械特效包，并调整原项目设置，成功运行
+
+commit aaabb675322a88df5d50da2f23e9a3484be51dc8
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 22:19:50 2024 +0800
+
+    准备导入炫酷枪械特效包
+
+commit afec2750ac094f87983254012914dd68fd226d8f
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 21:08:45 2024 +0800
+
+    调整人物位置便于显示枪械
+
+commit 0fa6e49440777217336b28e0f8d1bc4936b6eb8e
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 20:48:23 2024 +0800
+
+    创建计时器
+
+commit 33cedda75319f349a2930040cb79409081a3e723
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 19:18:00 2024 +0800
+
+    完善传送门的碰撞层级
+
+commit a4ea8c30269e2a963788c7558d38e64b02a3a358
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 19:13:51 2024 +0800
+
+    给子弹和传送墙添加碰撞交互
+
+commit e7890e5c0a7813111ee2bb449df8f6d531f8b8a8
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 19:02:17 2024 +0800
+
+    给玩家控制器添加传送门窗口控件
+
+commit 22ece7a75cd080174cddbea355c6de574609d9fd
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 18:45:28 2024 +0800
+
+    基本实现蹬墙与传送门的玩法结合
+
+commit ba45f7e3a08eaf6b56efc6c9ab6152a405b4c55f
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 18:07:36 2024 +0800
+
+    准备添加传送offset防止被卡在墙后
+
+commit 9b8a330059edeb12a330ceb433da1962dfc87bed
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 17:48:44 2024 +0800
+
+    初步实现传送效果
+    
+    但是会卡到墙后面
+
+commit 5f5a606ae3b16ecdb47263d27ad271314c48210f
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 17:37:28 2024 +0800
+
+    部分修正传送门蓝图，修正碰撞体设置
+    
+    但是出现传送的时候将门传送过去的问题
+
+commit eee16c2207ac121b5e491a39da13adab395d325a
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 13:00:59 2024 +0800
+
+    修正角色蓝图以及子弹蓝图组件的碰撞体预设
+
+commit 052cf9988c28e32f8731b0b71c25ea99f05a7abb
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 12:51:01 2024 +0800
+
+    通过修改子弹蓝图中的碰撞体组件的碰撞预设为子弹预设修复碰撞问题
+
+commit 0188e154929b412ae820eeef814079aacb848965
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 12:19:45 2024 +0800
+
+    设置Object Channels成功生成传送门实体
+    
+    但是仍然还不能进行传送，并且子弹碰撞出现问题
+
+commit 8778b311fd4007ef8da9b1c287bb2546b25edef4
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 10:32:36 2024 +0800
+
+    尝试修复Cast类型问题
+
+commit 48bc5ace1dfed9324b8549c2404a7fd7c656403f
+Author: BuZhiDao <3085017810@qq.com>
+Date:   Wed Dec 25 10:17:48 2024 +0800
+
+    Initial commit
